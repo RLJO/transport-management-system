@@ -1,0 +1,4 @@
+[submodule "confianz/ruvati"]
+	path = confianz/ruvati
+	url = git@github.com:confianz/ruvati.git
+	branch = master
