@@ -7,3 +7,8 @@
 	path = brahim94/logistic
 	url = git@github.com:brahim94/logistic.git
 	branch = master
+
+[submodule "Jarsa/transport-management-system"]
+	path = Jarsa/transport-management-system
+	url = git@github.com:Jarsa/transport-management-system.git
+	branch = 15.0
